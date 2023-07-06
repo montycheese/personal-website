@@ -138,7 +138,7 @@ const MainContent: React.FC = () => {
                     </a>
                 </div>
                 <li>
-                    In 2022, I <a className="font-bold underline" target="_blank" href="https://twitter.com/Montana_Wong/status/1487886787305357313?s=20">covered</a> the attempted hostile takeover of ApeDAO, a small DAO whos mission was to collect and curate highly sought-after NFTs, which I was previously a member of. My post was referenced by <a className="font-bold underline" target="_blank" href="https://markets.businessinsider.com/news/currencies/apedao-token-bored-ape-yacht-club-nft-sell-vote-valuation-2022-1">Business Insider</a> and other outlets.
+                    In 2022, I <a className="font-bold underline" target="_blank" href="https://twitter.com/Montana_Wong/status/1487886787305357313?s=20">covered</a> the attempted hostile takeover of ApeDAO, a decentralized autonomous organization whos mission was to collect and curate highly sought-after NFTs, which I was previously a member of. My post was referenced by <a className="font-bold underline" target="_blank" href="https://markets.businessinsider.com/news/currencies/apedao-token-bored-ape-yacht-club-nft-sell-vote-valuation-2022-1">Business Insider</a> and other outlets.
                 </li>
                 <div className="mb-5 flex flex-wrap justify-center items-center gap-2">
                     <a target="_blank" href="https://markets.businessinsider.com/news/currencies/apedao-token-bored-ape-yacht-club-nft-sell-vote-valuation-2022-1">
