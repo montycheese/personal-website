@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer: React.FC = () => {
     return (
-        <footer className="footer">
+        <footer className="flex justify-center footer">
             <p>&copy; 2023 Montana Wong</p>
         </footer>
     );
