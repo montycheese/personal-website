@@ -226,7 +226,7 @@ const MainContent: React.FC = () => {
                 </li>
                 <li>
 	                <span>
-	                	In March 2022, I collaborated with the artist <a className="font-bold underline" target="_blank" href="https://kuupottery.com">Kuu</a> to generate and launch <a href="https://nested.trade" className="font-bold underline" href="https://opensea.io/collection/womenwithvases">Women with Vases</a>. A generative digital art collection minted on Ethereum featuring her past ceramic work.
+	                	In March 2022, I collaborated with the artist <a className="font-bold underline" target="_blank" href="https://kuupottery.com">Kuu</a> to generate and launch <a className="font-bold underline" href="https://opensea.io/collection/womenwithvases">Women with Vases</a>. A generative digital art collection minted on Ethereum featuring her past ceramic work.
     	            </span>
                 </li>
             </ul>
